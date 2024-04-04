@@ -19,7 +19,9 @@ body {
 }
 
 .question, .answer { font-family: 'Nunito Sans', sans-serif; margin: 20px; font-size: 20px; }
-#revealBtn { font-family: 'Nunito Sans', sans-serif; margin: 20px; font-size: 16px; cursor: pointer; }
+#trueBtn { font-family: 'Nunito Sans', sans-serif; margin: 20px; font-size: 16px; cursor: pointer; }
+#falseBtn { font-family: 'Nunito Sans', sans-serif; margin: 20px; font-size: 16px; cursor: pointer; }
+#resetBtn { font-family: 'Nunito Sans', sans-serif; margin: 20px; font-size: 16px; cursor: pointer; }
 
 article,
 aside,
